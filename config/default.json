@@ -5,8 +5,8 @@
         "host": "smtp.mailtrap.io",
         "port": 2525,
         "auth": {
-            "user": "***",
-            "pass": "***"
+            "user": "02f9e2ced2f61f",
+            "pass": "abdc6ff2d00053"
         }
     },
     "filelocation" : "./integration/emaildb.json"
